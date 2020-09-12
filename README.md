@@ -1,20 +1,15 @@
-A First Level Header
-====================
+# ¿Qué es Thumber?
+![umb](https://upload.wikimedia.org/wikipedia/commons/0/0a/Escudo_UMB.png)
+Thumber es una plataforma de opinión orientada hacia la comunidad de la Universidad Manuela Beltrán, para que los estudiantes y los profesores por igual puedan participar y compartir sus perspectivas en diferentes temas de interés.
+## Contexto
+La universidad no cuenta con canales de opinión efectivos, las herramientas actuales con las que cuenta la comunidad son obsoletas y poco utilizadas, nuestro proyecto propone cumplir con los siguientes objetivos:
+- Una plataforma de opinión segura e imparcial con los miembros de la comunidad.
+- Una herramienta para comunicar sugerencias o inconformidades que se puedan presentar en la universidad.
+- Un entorno que fomente la participación tanto de estudiantes como docentes de la universidad.
+### Equipo de desarrollo: 
+- Juan David Vega Franco
+- Cristian Daniel Colmenares Mora
+- José Nicolas Florez Vargas
+- Juan Sebastian Nuñez Pinzón
 
-A Second Level Header
----------------------
-
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
-
-The quick brown fox jumped over the lazy
-dog's back.
-
-### Header 3
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+> Written with [StackEdit](https://stackedit.io/).

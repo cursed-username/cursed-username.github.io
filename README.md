@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /home/
+title: Thumber
+---
 # ¿Qué es Thumber?
 Thumber es una plataforma de opinión orientada hacia la comunidad de la Universidad Manuela Beltrán, para que los estudiantes y los profesores por igual puedan participar y compartir sus perspectivas en diferentes temas de interés.
 
@@ -13,3 +18,6 @@ La universidad no cuenta con canales de opinión efectivos, las herramientas act
 - José Nicolas Florez Vargas
 - Juan Sebastian Nuñez Pinzón
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA3Mjc3MTkwOV19
+-->

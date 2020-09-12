@@ -5,7 +5,7 @@ La universidad no cuenta con canales de opinión efectivos, las herramientas act
 - Una plataforma de opinión segura e imparcial con los miembros de la comunidad.
 - Una herramienta para comunicar sugerencias o inconformidades que se puedan presentar en la universidad.
 - Un entorno que fomente la participación tanto de estudiantes como docentes de la universidad.
-### Equipo de desarrollo: 
+## Equipo de desarrollo
 - Juan David Vega Franco
 - Cristian Daniel Colmenares Mora
 - José Nicolas Florez Vargas

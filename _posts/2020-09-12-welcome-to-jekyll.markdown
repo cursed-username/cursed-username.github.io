@@ -1,29 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sprint 1"
 date:   2020-09-12 14:37:16 -0500
-categories: jekyll update
+categories: sprints
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+En nuestro [documento del proyecto][Thumber.docx] se encuentra:
+- Historias de usuario
+- Requisitos funcionales
+- Requisitos no funcionales
+- Objetivos y justificación
 
-Jekyll requires blog post files to be named according to the following format:
+### Sprint 1 Backlog
+Las historias de usuario que se manejaron durante el primer sprint corresponden a:
+1. Como usuario quiero poder registrarme para poder iniciar sesión en la plataforma.
+2. Como usuario quiero iniciar sesión para poder usar la plataforma.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+En nuestra [tabla del sprint backlog][SprintBacklog.xlsx] se encuentran:
+- Tareas asignadas a cada historia de usuario.
+- Equipo asignado a cada tarea.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Thumber.docx]: https://docs.google.com/document/d/e/2PACX-1vQ0-dFL-_DQI0eF-68as0WhbI0zYAIviR9tTkthq_zvfK75HvujkHGoz5Z5bn1-4w/pub
+[SprintBacklog.xlsx]: https://docs.google.com/spreadsheets/d/e/2PACX-1vRyUOZRnbeUKhi6OFnMaXonC-PAbl3DY8mPYJFUVhtMVcuQnaSBTyMToEsjZXQ4Fg/pubhtml

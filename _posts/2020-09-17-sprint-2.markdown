@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Sprint 2"
+date:   2020-09-17 20:52:17 -0500
+categories: sprints
+---
+En nuestro [documento del proyecto][Thumber.docx] se encuentra:
+- Historias de usuario
+- Requisitos funcionales
+- Requisitos no funcionales
+- Objetivos y justificación
+
+### Sprint 2 Backlog
+La historia de usuario que se manejó durante el segundo sprint corresponde a:
+1. Como usuario quiero publicar, modificar y eliminar de mensajes (Thumbs).
+
+En nuestra [tabla del sprint backlog][SprintBacklog.xlsx] se encuentran:
+- Tareas asignadas a cada historia de usuario.
+- Equipo asignado a cada tarea.
+
+### Acuerdo de nivel de servicio
+Nuestro documento del [acuerdo de nivel de servicio][ADC.docx] contiene:
+- Los servicios pactados con el cliente durante el desarrollo del proyecto.
+
+
+[Thumber.docx]: https://docs.google.com/document/d/e/2PACX-1vQ0-dFL-_DQI0eF-68as0WhbI0zYAIviR9tTkthq_zvfK75HvujkHGoz5Z5bn1-4w/pub
+[SprintBacklog.xlsx]: https://docs.google.com/spreadsheets/d/e/2PACX-1vRyUOZRnbeUKhi6OFnMaXonC-PAbl3DY8mPYJFUVhtMVcuQnaSBTyMToEsjZXQ4Fg/pubhtml
+[ADC.docx]: https://docs.google.com/document/d/e/2PACX-1vSy7LsvD6tzNblFy3aQBZcP_1bP7fFujY-W3J3423MwT_Rwm4lQSMrjbTJHUoVlicDbJ4Hmc100pXve/pub

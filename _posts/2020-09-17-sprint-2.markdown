@@ -12,7 +12,8 @@ En nuestro [documento del proyecto][Thumber.docx] se encuentra:
 
 ### Sprint 2 Backlog
 La historia de usuario que se manejó durante el segundo sprint corresponde a:
-1. Como usuario quiero publicar, modificar y eliminar de mensajes (Thumbs).
+1. Como usuario quiero publicar, modificar y eliminar mensajes (Thumbs).
+2. Como usuario deseo publicar imagenes.
 
 En nuestra [tabla del sprint backlog][SprintBacklog.xlsx] se encuentran:
 - Tareas asignadas a cada historia de usuario.
